@@ -4,19 +4,19 @@ The Water & Food SmartFeeder is an innovative web service meticulously engineere
   <tr>
     <!-- Kolom untuk gambar dan teks Java -->
     <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/3ab87199-09d9-4c91-abed-f122c3c1a9aa" alt="Java" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/Water-Food-Smart-Feeder-/assets/128273587/a3fd38b6-c3b3-42bd-9c28-ecba441e0ad0" alt="Html" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      Java (Android Studio)
+      hHTML
     </td>
   </tr>
   <tr>
     <!-- Kolom untuk gambar dan teks MQTT -->
     <td>
-      <img src="https://github.com/Damaramon/Sporty-Booky/assets/128273587/21e4b4ca-8c12-4069-bd65-2e0a595b20f7" alt="Firebase" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/Water-Food-Smart-Feeder-/assets/128273587/743e215b-750d-4928-a684-f2910a5a5ba2" alt="CSS" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      Firebase
+      CSS
     </td>
   </tr>
     <tr>
