@@ -1,4 +1,37 @@
-Water & Food SmartFeeder is a service designed to assist you in caring for your pets by ensuring they can eat regularly even when their owner is not at home. This smart feeder can be controlled through a web interface, allowing you to adjust the quantity of food and water, as well as schedule feeding times.
+The Water & Food SmartFeeder is an innovative web service meticulously engineered to transform pet care by providing a reliable and automated feeding solution. This advanced system ensures that your pets receive their meals on a consistent schedule, even in your absence, thus mimicking the care they would receive from their owners. The SmartFeeder is equipped with a user-friendly web interface that allows pet owners to effortlessly control and customize the delivery of food and water. Features include adjustable portion sizes, the ability to schedule precise feeding times, and real-time monitoring capabilities. This technology not only promotes better health by maintaining a regular feeding routine but also offers peace of mind to pet owners, knowing their beloved companions are well-cared for, no matter where they are
+##  **Tech Stack**
+<table>
+  <tr>
+    <!-- Kolom untuk gambar dan teks Java -->
+    <td>
+      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/3ab87199-09d9-4c91-abed-f122c3c1a9aa" alt="Java" style="width: 70px; vertical-align: middle;">
+    </td>
+    <td>
+      Java (Android Studio)
+    </td>
+  </tr>
+  <tr>
+    <!-- Kolom untuk gambar dan teks MQTT -->
+    <td>
+      <img src="https://github.com/Damaramon/Sporty-Booky/assets/128273587/21e4b4ca-8c12-4069-bd65-2e0a595b20f7" alt="Firebase" style="width: 70px; vertical-align: middle;">
+    </td>
+    <td>
+      Firebase
+    </td>
+  </tr>
+    <tr>
+    <!-- Kolom untuk gambar dan teks MQTT -->
+    <td>
+      <img src="https://github.com/Damaramon/Sporty-Booky/assets/128273587/21e4b4ca-8c12-4069-bd65-2e0a595b20f7" alt="Firebase" style="width: 70px; vertical-align: middle;">
+    </td>
+    <td>
+      Firebase
+    </td>
+  </tr>
+
+</table>
+
+##  **Preview Web**
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="padding: 0; width:50%;">
