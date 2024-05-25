@@ -7,7 +7,7 @@ The Water & Food SmartFeeder is an innovative web service meticulously engineere
       <img src="https://github.com/Damaramon/Water-Food-Smart-Feeder-/assets/128273587/a3fd38b6-c3b3-42bd-9c28-ecba441e0ad0" alt="Html" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      hHTML
+      HTML
     </td>
   </tr>
   <tr>
