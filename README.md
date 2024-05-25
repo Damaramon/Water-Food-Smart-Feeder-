@@ -22,10 +22,10 @@ The Water & Food SmartFeeder is an innovative web service meticulously engineere
     <tr>
     <!-- Kolom untuk gambar dan teks MQTT -->
     <td>
-      <img src="https://github.com/Damaramon/Sporty-Booky/assets/128273587/21e4b4ca-8c12-4069-bd65-2e0a595b20f7" alt="Firebase" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/Water-Food-Smart-Feeder-/assets/128273587/f49faa6d-ea6e-4569-a95d-d2a64829e23d" alt="Java" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      Firebase
+      Java (Backend)
     </td>
   </tr>
 
